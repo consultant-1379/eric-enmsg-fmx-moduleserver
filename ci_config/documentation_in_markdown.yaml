@@ -1,0 +1,4 @@
+documents:
+  - name: moduleserver_vulnerability_report
+    files:
+      - ../build/moduleserver_Vulnerability_Report_2.0.md
